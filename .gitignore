@@ -1,2 +1,16 @@
 # Click-Once directory
 src/Shared/MMS.Shared/obj
+src/Shared/MMS.Shared/bin
+
+src/Modules/Notifications/MMS.Modules.Notifications.Shared/obj
+src/Modules/Notifications/MMS.Modules.Notifications.Shared/bin
+src/Modules/Notifications/MMS.Modules.Notifications.Api/obj
+src/Modules/Notifications/MMS.Modules.Notifications.Api/bin
+
+src/Modules/Users/MMS.Modules.Users.Shared/obj
+src/Modules/Users/MMS.Modules.Users.Shared/bin
+src/Modules/Users/MMS.Modules.Users.Core/obj
+src/Modules/Users/MMS.Modules.Users.Core/bin
+
+src/Bootstrapper/MMS.Bootstrapper/obj
+src/Bootstrapper/MMS.Bootstrapper/bin
