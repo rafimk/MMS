@@ -1,0 +1,12 @@
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\bin\Debug\net6.0\MMS.Modules.Nationalities.Shared.deps.json
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\bin\Debug\net6.0\MMS.Modules.Nationalities.Shared.dll
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\bin\Debug\net6.0\MMS.Modules.Nationalities.Shared.pdb
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\obj\Debug\net6.0\MMS.Modules.Nationalities.Shared.csproj.AssemblyReference.cache
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\obj\Debug\net6.0\MMS.Modules.Nationalities.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\obj\Debug\net6.0\MMS.Modules.Nationalities.Shared.AssemblyInfoInputs.cache
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\obj\Debug\net6.0\MMS.Modules.Nationalities.Shared.AssemblyInfo.cs
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\obj\Debug\net6.0\MMS.Modules.Nationalities.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\obj\Debug\net6.0\MMS.Modules.Nationalities.Shared.dll
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\obj\Debug\net6.0\refint\MMS.Modules.Nationalities.Shared.dll
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\obj\Debug\net6.0\MMS.Modules.Nationalities.Shared.pdb
+C:\Projects\MMS\src\Modules\Nationalities\MMS.Modules.Nationalities.Shared\obj\Debug\net6.0\ref\MMS.Modules.Nationalities.Shared.dll

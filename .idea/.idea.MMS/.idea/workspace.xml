@@ -6,14 +6,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="372f1a95-c9fe-47a3-b6a1-7610bc8932db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modules/Nationalities/MMS.Modules.Nationalities.Core/MMS.Modules.Nationalities.Core.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MMS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MMS/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MMS.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MMS.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bootstrapper/MMS.Bootstrapper/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootstrapper/MMS.Bootstrapper/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bootstrapper/MMS.Bootstrapper/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootstrapper/MMS.Bootstrapper/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/Users/MMS.Modules.Users.Core/MMS.Modules.Users.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/Users/MMS.Modules.Users.Core/MMS.Modules.Users.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shared/MMS.Shared/MMS.Shared.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shared/MMS.Shared/MMS.Shared.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Modules/Nationalities/MMS.Modules.Nationalities.Core/Exceptions/InvalidCountryNameException.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,6 +39,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.MMS.Bootstrapper">
@@ -75,6 +87,9 @@
       <option name="presentableId" value="Default" />
       <updated>1653917408036</updated>
       <workItem from="1653917410909" duration="7055000" />
+      <workItem from="1654005329208" duration="3439000" />
+      <workItem from="1654407617814" duration="4734000" />
+      <workItem from="1654436261011" duration="5461000" />
     </task>
     <servers />
   </component>

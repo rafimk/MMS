@@ -7,8 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\..\Shared\MMS.Shared\MMS.Shared.csproj" />
-      <ProjectReference Include="..\MMS.Modules.Users.Shared\MMS.Modules.Users.Shared.csproj" />
+      <ProjectReference Include="..\MMS.Modules.Users.Core\MMS.Modules.Users.Core.csproj" />
     </ItemGroup>
 
 </Project>

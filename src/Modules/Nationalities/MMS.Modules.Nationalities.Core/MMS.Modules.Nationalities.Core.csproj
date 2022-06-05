@@ -3,12 +3,11 @@
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
     </PropertyGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\..\..\Shared\MMS.Shared\MMS.Shared.csproj" />
-      <ProjectReference Include="..\MMS.Modules.Users.Shared\MMS.Modules.Users.Shared.csproj" />
+      <ProjectReference Include="..\MMS.Modules.Nationalities.Shared\MMS.Modules.Nationalities.Shared.csproj" />
     </ItemGroup>
 
 </Project>
